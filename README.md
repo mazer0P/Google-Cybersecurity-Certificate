@@ -5,9 +5,11 @@ This Repository describes about the journey of getting the google cybersecurity 
 This course contains 8 different courses which combinely makes the certificate.
 
 # First Course :
+Foundations of Cybersecurity
  This was the begining where almost the overview of every course was given. Learned about the SIEM Tools, Frameworks , Some popular attacks like the LoveLetter, which shaped the infosec community, NIST frameworks, CIA triad, and other base info sec knowledge.
 
  # Second Course : 
+ Play It Safe: Manage Security Risks
  This course dive deep into Frameworks like NIST and controls , CIA triad, OWASP principles etc.
  
  In first two modules some key learnings were:
