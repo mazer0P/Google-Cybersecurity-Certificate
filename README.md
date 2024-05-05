@@ -12,6 +12,9 @@ This course contains 8 different courses which combinely makes the certificate.
  
  In first two modules some key learnings were:
 - How frameworks helps in lowering the risk in crucial time
-- learned how framework provides guidance to act and investigate the issue and prevent the further damage.
-- learned how frameworks provides guidance to recover data loss or any harm during the breach or other compromised times.
-- identify, protect using tools, policies and procedures, detect using improvised techniques, respond using security processes, recover the system. 
+- learned how framework provides guidance to act and investigate the issue and prevent the further damage,recover data loss or any harm during the breach or other compromised times.
+- identify, protect using tools, policies and procedures, detect using improvised techniques, respond using security processes, recover the system.
+- Learned about the security audits how these audits helps organizations in keeping up there business needs and goals.
+- Performed a security audit for a fictional company Botium Toys, learned about how to review security scope and goals, reviewed and finalize the availability and usage of important security compliances.
+
+Key Learning: in order to keep up the business availability an organization should imply the frameworks as the baseline
