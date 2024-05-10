@@ -26,3 +26,30 @@ Foundations of Cybersecurity
 - learned about playbooks and their importance as a guide during a security incident, which guides how to respond to an incident and post incident activities.
 
 Key Learning: in order to keep up the business availability an organization should imply the frameworks as the baseline
+# Course 3:
+
+**Module 1: Network architecture**
+
+learning the basic architecture of networks. learned about how physical network devices like workstations, servers, routers, and switches connect to each other to create a network. learned about cloud networks and how cloud computing has grown in recent years.
+
+Learned about the components of Cloud service providers:
+
+SaaS: software as service, where we can use software without hosting it.
+
+Paas: Platform as a service, where developers can use services to design and develop custom applications for their organization.
+
+Iaas: Infrastructure as a service, where virtual components of a system like containers , virtual pcs can be host. These include virtual containers and storage that are configured remotely through the CSP’s API or web console. 
+
+Learned about the basic structure of a Data Packet, which includes data header: The sender’s IP address, the destination's MAC address, and the protocol to use, body and the footer which contains a string of data indicating that the data transmission is complete.
+
+ learned about the Transmission Control Protocol/Internet Protocol (TCP/IP) model and its detailed structure and layers. TCP/IP consists of four layers : Network layer, Internet, Transport layer and Application Layer.
+
+Learned about difference between TCP and UDP, how TCP is an essential and reliable way of communication as it forms connection before transmitting packets unlike the UDP.
+
+Learned about the OSI model , whose seven layers help the connection between two devices and the transmission of packets. learned how each model is necessary in order to achieve safe connection and data sharing. 
+
+**Module 2: Network operations**
+
+**Module 3: Secure against network intrusions**
+
+**Module 4: Security hardening**
