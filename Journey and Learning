@@ -49,7 +49,17 @@ Iaas: Infrastructure as a service, where virtual components of a system like con
 - Learned about the OSI model , whose seven layers help the connection between two devices and the transmission of packets. learned how each model is necessary in order to achieve safe connection and data sharing. 
 
 **Module 2: Network operations**
+- learned about network protocols like tcp, icmp, smtp, sftp, https, udp, dns, snmp and how they organize communication over a network.
+- learned about different wireless protocols such as wep, wpa, wpa2, wpa3
+- learned about firewalls and proxy servers.
+- Learned how firewalls can be configured as hardware, software and cloud based which uses FaaS in order to get protection for the organization’s network .
+- Learned how stateless and statefull firewalls are differ from each other.
+- Learned about the vpns and security zones., learned about the uncontrolled zone, the controlled zone, the demilitarized zone, and the restricted zone.
+- learned about network segmentation, a security technique that divides networks into sections. A private network can be segmented to protect portions of the network from the internet, which is an unsecured global network.
 
 **Module 3: Secure against network intrusions**
+- learned how packet sniffing and IP spoofing are used in network attacks. Because these attacks intercept data packets as they travel across the network, they are called interception attacks.
+- learned about how to read and understand log files of popular packet sniffing tools like tcpdump and wireshark.
+- learned about how dos attack works and how as a security analyst we can resume and prevent the services after an attack occurred.
 
 **Module 4: Security hardening**
