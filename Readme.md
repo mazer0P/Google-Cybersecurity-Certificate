@@ -63,3 +63,10 @@ Iaas: Infrastructure as a service, where virtual components of a system like con
 - learned about how dos attack works and how as a security analyst we can resume and prevent the services after an attack occurred.
 
 **Module 4: Security hardening**
+- learned about attack surface and security hardening.
+- Learned why pen testing is essential for security hardening.
+- Learned about patch updates and their importance for the security of software as fixing the vulnerability.
+- Learned about the secured password complexity, bruteforce attacks such as normal bruteforce attacks and dictionary attacks.
+- Learned how we can assess the vulnerabilities and which software are useful such as vms and sandbox environments.
+- Learned preventive measures used to improve the overall security such as hashing-salting, MFA and 2FA, CAPTCHA and reCAPTCHA and password policies.
+- Learned about port filtering where not in use ports are blocked in order to get rid off port vulnerabilities.
