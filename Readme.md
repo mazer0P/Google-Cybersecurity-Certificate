@@ -1,4 +1,4 @@
-# Google-Cybersecurity-
+# Google-Cybersecurity-Certificate
 
 This Repository describes about the journey of getting the google cybersecurity professional certificate.
 
