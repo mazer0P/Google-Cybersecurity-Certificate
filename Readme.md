@@ -70,3 +70,11 @@ Iaas: Infrastructure as a service, where virtual components of a system like con
 - Learned how we can assess the vulnerabilities and which software are useful such as vms and sandbox environments.
 - Learned preventive measures used to improve the overall security such as hashing-salting, MFA and 2FA, CAPTCHA and reCAPTCHA and password policies.
 - Learned about port filtering where not in use ports are blocked in order to get rid off port vulnerabilities.
+# Course 4:
+Tools of the Trade: Linux and SQL:
+- learnt about the different operating systems and how a operating system works.
+- Learnt about the resource allocation through operating system.
+- learned about the difference between the command line interface (CLI) and graphical user interface(GUI).
+- Learned about the architecture and different distributions of Linux.
+- Learned about the digital forensic tools available in Kali Linux distro for security professionals.
+- Learnt about the importance of shell and its role as the interpreter.
