@@ -78,3 +78,12 @@ Tools of the Trade: Linux and SQL:
 - Learned about the architecture and different distributions of Linux.
 - Learned about the digital forensic tools available in Kali Linux distro for security professionals.
 - Learnt about the importance of shell and its role as the interpreter.
+- Learnt and tried writing commands in a bash shell through navigating in FHS or file hierarchy system such as , cat, ls, cd, pwd etc, on a practical lab setup on qwiklabs.com
+- Learned about filtering commands such as grep and piping phenomenon.
+- learned how to manage access and authorize user’s access to files and data.
+- Learned about the users groups and their permissions such as -r,-w,x.
+- took an activity where managed file access and directory access to user , group and other users, as given structure.
+- Took another activity in which i managed users in the system,.
+- Learned about the Linux help commands such as man, whatis, apropos to learn about the Linux commands.
+- Learnt about the sql queries and their usage for the database information retrieval and log filtering.
+- Learnt about joins in sql.
