@@ -87,3 +87,51 @@ Tools of the Trade: Linux and SQL:
 - Learned about the Linux help commands such as man, whatis, apropos to learn about the Linux commands.
 - Learnt about the sql queries and their usage for the database information retrieval and log filtering.
 - Learnt about joins in sql.
+# Course 5:
+- Learned about the assets, asset management, asset classification and other necessary procedures for the safety of the assets.
+- Learned about the NIST framework , its components like core and tiers. 
+- Went through an activity which shows how assets and ensuring their protection is classified.
+- Went through another activity which demonstrated the risk register of a demo bank. In which i learned how to classify risks, severity, and priority of certain vulnerabilities and threats.
+- Learned about the security controls used to maintain the data privacy and security.
+- Data controls such as Technical, operational and managerial controls helps organization to implement data security and privacy.
+- Learned about the principle of least privilege which ensures the employees has limited and sufficient access over data according to their role.
+- Learned about the data lifecycle which ensures maintain data in all forms till it leaves the organization's custody.
+- Learned about the fundamentals of cryptography where we get know how we share data securely.
+- Learned about the public key infrastructure, which is used by the organizations to establish trust and data transfer between the devices.
+- Learned about the two types of encryption i.e., symmetric and asymmetric.
+- Went through a lab which gave the practical experience of following :
+	 - list hidden files,
+	 - decrypt a Caesar cipher, and
+	 - decrypt an encrypted file.
+- Learned about the non-repudiation and importance of hashing with hash functions and their evolutions.
+- Went through an activity which helped me gain practical experience creating hash values for different files and comparing them. Although file contents appear same but the file were different.
+- Learned about the AAA framework which holds responsibility for the Access and authentication of users.
+- Learned how Single-sign-on(SSO) and Multi-factor authentication (MFA) is used in order to improve and strengthen the sign-in experience of the user.
+- Learned about how the mechanisms of authorization works, which is essential key for the user sign-in. The two mostly used authorizations are basic auth in HTTP and 0AUTH an open source authorization framework by google.
+- Learned why auditing user activities specially sign-in logs are important as it helps in securing organizations and users safe.
+- Learned how IAM and its different models such as Mandatory Access Control (MAC), Discretionary Access Control (DAC) and Role based Access Control (RAC) helps in maintaining the secure and better access to suitable resources.
+- Went through an activity of log analysis and providing the information and advices after an event occurred.
+- Learned about the vulnerability management process as how the vulnerabilities are addressed in a system and how a system is made defensive against the threats.
+- Learned how defense in depth helps in keeping the organization safe with the help of multiple layers of security.
+- Went through the Common Vulnerabilities and Exposures and how a vulnerability is measured. CVEs and CVSS concepts were helpful in understanding.
+- Went  through the OWASP TOP 10 , which lists the most common vulnerabilities targeted by attackers.
+- Learned the concept of Open source intelligence or OSINT which helps organizations to stay safe before any threat occurs.
+-  Learned about the vulnerability assessments which are a necessary practice in order to find and asses the flaws in the system and network.
+- Learned how vulnerabilities are scanned using different tools and practices such as simulation of  real world attacks.
+- Learned why updates are necessary part in order to protect systems as they patch most of the vulnerabilities.
+- Learned how penetration testing is beneficial for the organization as it helps finding new vulnerabilities and exposures.
+- Went through an activity which gave a practical experience how vulnerabilities assessments are conducted.
+- Learned about the mindset of attackers which can harm the system or the organization by protecting all the entry Points.
+- Learned how security hardening takes place and why it is necessary in order to reduce the attack surface.
+- Learned about the typed of threat actors and attack vectors.
+- Learned how we can defend organizations against bruteforce attacks.
+- Went through an threat reporting activity which thoroughly gives knowledge how specific events can be dangerous.
+- Learned about the social engineering and its severe effects on the organization's security.
+- Learned about several tactics used such as phishing, vishing, spear fishing etc.
+- Went through an activity which showed how can a email be identified as phishing or not.
+- Learned about malwares and their different types, their effects to systems and attacks used previously.
+- Learned about the term crypto-jacking which is a scan which malicious actors performs in order to mine crypto coins or tokens.
+- Learned about the web based exploits such as XSS, SQLI and other different injection attacks. Also we went through several preventions that can stop these types of attacks from occurring.
+- Learned the concept of threat modelling, as aspect of securing applications at very beginning stage and for SDLC.
+- Learned about different types of threat modelling frameworks such as PASTA, STRIDE, Trike and VAST. 
+- Went through an activity in which we conducted a PASTA modelling of an sneakers company which uses web-application as their business.
