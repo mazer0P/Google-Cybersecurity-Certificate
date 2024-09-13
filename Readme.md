@@ -150,7 +150,7 @@ Tools of the Trade: Linux and SQL:
 	 open saved packet capture files,
 	 view high-level packet data, and
 	 use filters to inspect detailed packet data.
- (https://github.com/user-attachments/assets/765f41fc-2aeb-4fa4-857c-cf5a0862aeee)
+![Pasted image 20240911150630](https://github.com/user-attachments/assets/492dcc68-a3a7-4b65-87da-f444125aa00b)
 
 - Learned about the usage of network capture tool TCPDUMP and its functionality.
 - Learned about the detection and analysis phase of the incident respond lifecycle. Different methods used to analyze the incident and indicators of compromise.
@@ -182,9 +182,10 @@ Tools of the Trade: Linux and SQL:
 	Identify different data sources 
 	    
 	Locate failed SSH login(s) for the root account.
-(https://github.com/user-attachments/assets/bb8498cd-b5cb-4321-a3c3-c05892d17a1c)
-(https://github.com/user-attachments/assets/e378a1cc-5ebe-492f-9b71-efd7c0fe6569)
 
+
+![Pasted image 20240914041129](https://github.com/user-attachments/assets/d83518a4-9aa1-4e56-8bd9-b71d6a1a8c18)
+![Pasted image 20240914041627](https://github.com/user-attachments/assets/6b3123d7-639d-4acf-9e6f-232501d771c5)
 
 In this activity, we used Chronicle to investigate a suspicious domain used in a phishing email. Using Chronicle's domain search, we were able to:
 
@@ -197,7 +198,8 @@ In this activity, we used Chronicle to investigate a suspicious domain used in a
 - Identify which assets submitted login information to the domain
     
 - Identify additional domains 
-(https://github.com/user-attachments/assets/e9949d85-9e31-4bd9-96c1-2a554e0d020a)
+
+![Pasted image 20240914043154](https://github.com/user-attachments/assets/6f6cf668-a763-442c-a231-807a5509a6d6)
 
     
 After investigation, we determined that the suspicious domain has been involved in phishing campaigns. We also determined that multiple assets might have been impacted by the phishing campaign as logs showed that login information was submitted to the suspicious domain via POST requests. Finally, we identified two additional domains related to the suspicious domain by examining the resolved IP address.
